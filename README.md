@@ -1,4 +1,4 @@
-# Datatower.ai Open Source Doc
+# DataTower.ai Open Source Doc
 
-It is the Doc of Open Source Project of Datatower.ai
+It is the Doc of Open Source Project of DataTower.ai
 
