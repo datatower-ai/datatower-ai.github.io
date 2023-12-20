@@ -32,10 +32,19 @@ The Datatower open source initiative includes the parts that we consider mature,
 ### Try SaaS
 
 Trying out Datatower is a straightforward process.
-Just visit https://datatower.ai/ and follow the instructions step by step.
-You can connect your data and get insights within 10 minutes.
 
-### Contribute Guide
+Just visit https://datatower.ai/ and follow the instructions step by step.
+
+You can connect your data and get insights within **10 minutes**.
+
+### Using, Building and Contribute Guide
+
+1. Rent a server from AWS, Google or any other Iaas.
+2. Install bigdata toolkit.
+3. Load codes into server.
+4. Test your service for your self.
+5. Start coding.
+6. Pull requests.
 
 ## Documentation
 
@@ -49,12 +58,21 @@ To contact us or chat with other users, please visit:
 
 ## Roadmap
 
-Core
-
-Plugin
-
-SDK
+2024-01 API server open source.
+2024-02 BI Frontend open source.
+2024-04 BI Backend open source.
+2024-05 BigData Initial open source.
+2024-07 Finish core repositories open source.
 
 ## Contribute
 
+Join us and you would be here.
+
 ## License
+
+This document is copyrighted by DATATOWER AI LIMITED (HongKong Registered) and can be disseminated. Reproduction and plagiarism in commercial activities are strictly prohibited.
+
+In addition, each open-source code repository has its own copyright agreement and usage instructions. We primarily utilize the Elv2 license as our code-sharing agreement. If other open-source licenses apply, please refer to the specific repository's documentation for the applicable terms. Any source code not identified with a shared open-source license is prohibited for third-party use with commercial intentions.
+
+If you have any copyright concerns, please contact: contact@datatower.ai.
+
