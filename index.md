@@ -33,7 +33,7 @@ The Datatower open source initiative includes the parts that we consider mature,
 
 Trying out Datatower is a straightforward process.
 
-Just visit https://datatower.ai/ and follow the instructions step by step.
+Just visit [DataTower.ai](https://datatower.ai/) and follow the instructions step by step.
 
 You can connect your data and get insights within **10 minutes**.
 
