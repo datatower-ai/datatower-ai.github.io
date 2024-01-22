@@ -46,6 +46,16 @@ You can connect your data and get insights within **10 minutes**.
 5. Start coding.
 6. Pull requests.
 
+Setting up the machine, taking Debian 12 as an example, let's go through the deployment process.
+
+1. Install Docker.
+2. Set up the big data infrastructure based on the configuration files from the [Bigdata Initial](https://github.com/datatower-ai/bigdata-initial) repository.
+3. Deploy the API Server service.
+4. Deploy nginx as a traffic forwarding service.
+5. Deploy the backend service for the Web Server.
+6. Deploy the Web Frontend.
+7. Congratulations! Your dedicated environment is now ready, and you can actively participate in the development of DataTower.ai.
+
 ## Documentation
 
 For full documentations, please visit our websites:
@@ -58,15 +68,19 @@ To contact us or chat with other users, please visit:
 
 ## Roadmap
 
-2024-01 API server open source.
-2024-02 BI Frontend open source.
-2024-04 BI Backend open source.
-2024-05 BigData Initial open source.
-2024-07 Finish core repositories open source.
+* 2024-01 API server open source.
+* 2024-02 BI Frontend open source.
+* 2024-04 BI Backend open source.
+* 2024-05 BigData Initial open source.
+* 2024-07 Finish core repositories open source.
 
-## Contribute
+## Changes
 
-Join us and you would be here.
+* 2024-01 BigData Initial open source.
+
+## Thanks
+
+*Join us and you would be here.*
 
 ## License
 
