@@ -48,7 +48,7 @@ You can connect your data and get insights within **10 minutes**.
 
 Setting up the machine, taking Debian 12 as an example, let's go through the deployment process.
 
-1. Install Docker.
+1. Install Docker following this [doc](https://docs.docker.com/engine/install/debian/).
 2. Set up the big data infrastructure based on the configuration files from the [Bigdata Initial](https://github.com/datatower-ai/bigdata-initial) repository.
 3. Deploy the API Server service.
 4. Deploy nginx as a traffic forwarding service.
@@ -76,7 +76,7 @@ To contact us or chat with other users, please visit:
 
 ## Changes
 
-* 2024-01 BigData Initial open source.
+* 2024-01 BigData Initial released.
 
 ## Thanks
 
