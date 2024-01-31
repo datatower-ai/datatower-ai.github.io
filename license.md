@@ -20,7 +20,7 @@ The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensa
 ### Limitations
 You may not provide the software to third parties as a hosted or managed service, where the service provides users with access to any substantial set of the features or functionality of the software.
 
-You may not offer technical support or uncertified technical consulting services to third parties, including making modifications to the source code, provide performance analysis of the software or deploying services. These actions are limited to internal use within your organization.
+You may not offer technical support or uncertified technical consulting services to third parties, including making modifications to the source code, provide performance analysis of the software or deploying services. These actions are limited to internal use within your company.
 
 You may not move, change, disable, or circumvent the license key functionality in the software, and you may not remove or obscure any functionality in the software that is protected by the license key.
 

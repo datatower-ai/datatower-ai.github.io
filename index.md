@@ -84,11 +84,9 @@ To contact us or chat with other users, please visit:
 
 ## License
 
-[DTOSP License 1](https://datatower-ai.github.io/license)
-
 This document is copyrighted by DATATOWER AI LIMITED (HongKong Registered) and can be disseminated. Reproduction and plagiarism in commercial activities are strictly prohibited.
 
-In addition, each open-source code repository has its own copyright agreement and usage instructions. We primarily utilize DTOSP License 1 which is similar to Elv2 license as our code-sharing agreement.
+In addition, each open-source code repository has its own copyright agreement and usage instructions. We primarily utilize [DTOSP License 1](https://datatower-ai.github.io/license) which is similar to Elv2 license as our code-sharing agreement.
 Please refer to the specific repository's documentation for the applicable terms, if other open-source licenses apply.
 Any source code not identified with a shared open-source license is prohibited for third-party use with commercial intentions.
 
